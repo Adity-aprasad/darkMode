@@ -1,4 +1,4 @@
-# Dark Mode Toggle
+![WhatsApp Image 2024-12-19 at 11 17 01 (1)](https://github.com/user-attachments/assets/03273356-9866-499a-8ff1-eb61624e85a4)# Dark Mode Toggle
 
 A React Native application built with Expo that implements a dark mode feature. This feature allows users to switch between light and dark themes, enhancing user experience and reducing eye strain in low-light environments.
 
@@ -14,9 +14,17 @@ A React Native application built with Expo that implements a dark mode feature. 
 [Live Demo](#) (Add your demo link here if available)
 
 ## Screenshots
+![WhatsApp Image 2024-12-19 at 11 17 01 (1)](https://github.com/user-attachments/assets/62f7cff5-bffd-4384-a6d7-a76ceef830d7)
+![WhatsApp Image 2024-12-19 at 11 17 01](https://github.com/user-attachments/assets/0defddee-f633-4257-b404-3a6d442450ee)
+
 
 ![Light Mode](#)  
 *Screenshot of light mode interface*
+
+![WhatsApp Image 2024-12-19 at 11 17 00 (1)](https://github.com/user-attachments/assets/7fa6581a-5aae-4a5c-bb66-aa5ce55e74b9)
+
+![WhatsApp Image 2024-12-19 at 11 17 00](https://github.com/user-attachments/assets/6afb9950-8636-4ac1-aa4a-1989e3e2d95e)
+
 
 ![Dark Mode](#)  
 *Screenshot of dark mode interface*
